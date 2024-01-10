@@ -1,4 +1,4 @@
-# Cleaning Data - Nashville Housing Table
+# Data Cleaning - Nashville Housing Table
 
 This data analysis project focuses on cleaning and standardizing data in SQL queries. It includes various SQL queries to clean and transform data in the NashvilleHousing table.
 
